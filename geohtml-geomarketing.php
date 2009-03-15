@@ -438,10 +438,10 @@ function geohtml_geomarketing_ajax() {
 				break;
 		}
 	} else {
-		// Create the GET variable string
+		// Create the GET variable string (this will pass the variables with the addslashes method applied, the AJAX handler is expecting that and will handle removing them)
 		$ajaxRequest .= http_build_query($_GET);
 		
-		// Create the POST variable string
+		// Create the POST variable string (this will pass the variables with the addslashes method applied, the AJAX handler is expecting that and will handle removing them)
 		$postVariables = http_build_query($_POST);
 		// Modify the postVariables to include account settings
 		if(strlen($postVariables) > 0) { $postVariables .= "&"; }
