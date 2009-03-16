@@ -38,11 +38,10 @@ GeoHTML.com provides free and premium accounts for all users. Free accounts are 
 
 You can use [this video tutorial on YouTube](http://www.youtube.com/watch?v=nB9E7VEYV7M "GeoHTML.COM - Getting Started Video") if you're having trouble getting started.
 
-= Why do my category links contain `/?paged=[0-9]`? =
-
 == Screenshots ==
 
-1. The settings admin for the plugin. You can easily disable 301 redirects or change the base category directory, which is */category/* by default.
+1. The settings admin for the plugin.
+2. The GeoMarketing admin area on the Page/Post editor
 
 == Primary Benefits ==
 
