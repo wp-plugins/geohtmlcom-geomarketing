@@ -18,7 +18,7 @@ An easy to use admin is integrated directly into the content editor for all page
 
 *Change Log*
 
-**Version 0.1 (Feb-28-2009)** - Initial release
+**Version 0.1 (Mar-15-2009)** - Initial release
 
 == Installation ==
 
