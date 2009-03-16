@@ -36,7 +36,7 @@ GeoHTML.com provides free and premium accounts for all users. Free accounts are 
 
 = Is there a tutorial? =
 
-You can use [this video tutorial on YouTube](http://www.youtube.com/ "GeoHTML.COM - Getting Started Video") if you're having trouble getting started.
+You can use [this video tutorial on YouTube](http://www.youtube.com/watch?v=nB9E7VEYV7M "GeoHTML.COM - Getting Started Video") if you're having trouble getting started.
 
 = Why do my category links contain `/?paged=[0-9]`? =
 
