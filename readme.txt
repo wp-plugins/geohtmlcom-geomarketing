@@ -6,11 +6,11 @@ Requires at least: 2.5
 Tested up to: 2.7.1
 Stable tag: 0.1
 
-A WordPress plugin to change Page or Post content based on your visitor's location
+A WordPress plugin to change Page or Post content based on your visitor's location. Target by country, state, metro, and city, all for free and right in your Post editor.
 
 == Description ==
 
-This plugin will allow you to change the content on your page or post based on your visitors location. This can be by country, region/state, metro areas, or cities.
+This plugin will allow you to change the content on your page or post based on your visitor's location. This can be by country, region/state, metro area, or city.
 
 An easy to use admin is integrated directly into the content editor for all pages and posts; letting you quickly change your content to only show to specific visitors.
 
@@ -38,6 +38,6 @@ You can use [this video tutorial on YouTube](http://www.youtube.com/watch?v=0Z5L
 
 == Primary Benefits ==
 
-* Change post and page content by your visitors location. Or, show and hide content only to certain countries, regions/states, or cities.
+* Change post and page content by your visitor's location. Or, show and hide content only to certain countries, regions/states, or cities.
 * Post comments and get help on the [GeoHTML.com GeoMarketing](http://groups.google.com/group/geohtmlcom-geomarketing/topics "GeoHTML.com GeoMarketing") Google Group.
 * Learn more about [GeoMarketing](http://www.geohtml.com/ "GeoMarketing"), [GeoLocation](http://www.geohtml.com/ "GeoLocation"), and [IP Location](http://www.geohtml.com/ "IP Location") at GeoHTML.com
