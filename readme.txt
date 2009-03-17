@@ -6,7 +6,7 @@ Requires at least: 2.5
 Tested up to: 2.7.1
 Stable tag: 0.1
 
-A WordPress plugin to change Page or Post content based on your visitor's location. Target by country, state, metro, and city, all for free and right in your Post editor.
+Change page or post content based on your visitor's location. All for free and right in your WordPress admin's page/post editor.
 
 == Description ==
 
