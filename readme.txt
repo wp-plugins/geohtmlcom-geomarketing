@@ -4,7 +4,8 @@ Donate link: http://www.anothercoder.com/donate
 Tags: geomarketing, ip location, geolocation, geohtml, iplocation, country, state, city, ip2location, location, content
 Requires at least: 2.5
 Tested up to: 2.7.1
-Stable tag: tags/0.1
+Stable tag: 0.1
+Version: 0.1
 
 A WordPress plugin to change Page or Post content based on your visitor's location
 
