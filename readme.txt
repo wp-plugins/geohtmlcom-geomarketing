@@ -5,7 +5,6 @@ Tags: geomarketing, ip location, geolocation, geohtml, iplocation, country, stat
 Requires at least: 2.5
 Tested up to: 2.7.1
 Stable tag: 0.1
-Version: 0.1
 
 A WordPress plugin to change Page or Post content based on your visitor's location
 
@@ -41,4 +40,4 @@ You can use [this video tutorial on YouTube](http://www.youtube.com/watch?v=0Z5L
 
 * Change post and page content by your visitors location. Or, show and hide content only to certain countries, regions/states, or cities.
 * Post comments and get help on the [GeoHTML.com GeoMarketing](http://groups.google.com/group/geohtmlcom-geomarketing/topics "GeoHTML.com GeoMarketing") Google Group.
-* Learn more about [GeoMarekting](http://www.geohtml.com/ "GeoMarketing"), [GeoLocation](http://www.geohtml.com/ "GeoLocation"), and [IP Location](http://www.geohtml.com/ "IP Location") at GeoHTML.com
+* Learn more about [GeoMarketing](http://www.geohtml.com/ "GeoMarketing"), [GeoLocation](http://www.geohtml.com/ "GeoLocation"), and [IP Location](http://www.geohtml.com/ "IP Location") at GeoHTML.com
