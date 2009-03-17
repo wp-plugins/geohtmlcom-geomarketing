@@ -39,5 +39,5 @@ You can use [this video tutorial on YouTube](http://www.youtube.com/watch?v=0Z5L
 == Primary Benefits ==
 
 * Change post and page content by your visitors location. Or, show and hide content only to certain countries, regions/states, or cities.
-
-Post comments and get help on the [GeoHTML.com GeoMarketing](http://groups.google.com/group/geohtmlcom-geomarketing/topics "GeoHTML.com GeoMarketing") Google Group.
+* Post comments and get help on the [GeoHTML.com GeoMarketing](http://groups.google.com/group/geohtmlcom-geomarketing/topics "GeoHTML.com GeoMarketing") Google Group.
+* Learn more about [GeoMarekting](http://www.geohtml.com/ "GeoMarketing"), [GeoLocation](http://www.geohtml.com/ "GeoLocation"), and [IP Location]](http://www.geohtml.com/ "IP Location") at GeoHTML.com
