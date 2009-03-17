@@ -1,7 +1,7 @@
 ﻿=== GeoHTML.com GeoMarketing ===
 Contributors: anothercoder, geohtml.com, bellwether entertainment
 Donate link: http://www.anothercoder.com/donate
-Tags: geomarketing, ip location, geolocation, geohtml, iplocation,
+Tags: geomarketing, ip location, geolocation, geohtml, iplocation, country, state, city, ip2location, location, content
 Requires at least: 2.5
 Tested up to: 2.7.1
 Stable tag: tags/0.1
@@ -12,9 +12,9 @@ A WordPress plugin to change Page or Post content based on your visitor's locati
 
 This plugin will allow you to change the content on your page or post based on your visitors location. This can be by country, region/state, metro areas, or cities.
 
-This plugin works with GeoHTML.com's GeoMarketing technology to change post content by visitor location. You'll need a free, or premium, GeoHTML.com account to use it.
-
 An easy to use admin is integrated directly into the content editor for all pages and posts; letting you quickly change your content to only show to specific visitors.
+
+To make things easy, you can use the [Getting Started with the WordPress GeoMarketing Plugin by G](http://www.youtube.com/watch?v=0Z5LYTKb_WA "GeoHTML.COM - Getting Started Video"). This will teach you everything from installing the plugin to creating your location specific content.
 
 *Change Log*
 
@@ -28,19 +28,12 @@ An easy to use admin is integrated directly into the content editor for all page
 
 == Frequently Asked Questions ==
 
-= Is this free? Do I need an account? =
-
-You'll need to signup for a GeoMarketing account with [GeoHTML.com](http://www.geohtml.com/ "GeoHTML.com"). Once you've signed up, just enter your account information into the Plugin Settings panel.
-
-GeoHTML.com provides free and premium accounts for all users. Free accounts are advertising supported after the first 5,000 uses each month, and premium accounts charge a small fee per 1,000 uses after the first 5,000 each month.
-
 = Is there a tutorial? =
 
 You can use [this video tutorial on YouTube](http://www.youtube.com/watch?v=0Z5LYTKb_WA "GeoHTML.COM - Getting Started Video") if you're having trouble getting started.
 
 == Screenshots ==
 
-1. The settings admin for the plugin.
 2. The GeoMarketing admin area on the Page/Post editor
 
 == Primary Benefits ==
