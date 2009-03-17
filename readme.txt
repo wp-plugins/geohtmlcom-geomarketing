@@ -14,7 +14,7 @@ This plugin will allow you to change the content on your page or post based on y
 
 An easy to use admin is integrated directly into the content editor for all pages and posts; letting you quickly change your content to only show to specific visitors.
 
-To make things easy, you can use the [Getting Started with the WordPress GeoMarketing Plugin](http://www.youtube.com/watch?v=0Z5LYTKb_WA "GeoHTML.COM - Getting Started Video"). This will teach you everything from installing the plugin to creating your location specific content.
+To make things easy, you can use the [Getting Started with the WordPress GeoMarketing Plugin](http://www.youtube.com/watch?v=0Z5LYTKb_WA "GeoHTML.COM - Getting Started Video") video tutorial. This will teach you everything from installing the plugin to creating your location specific content.
 
 *Change Log*
 
