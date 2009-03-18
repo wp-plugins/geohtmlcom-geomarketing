@@ -1,12 +1,11 @@
 ﻿=== GeoHTML.com GeoMarketing ===
-Contributors: anothercoder, geohtml.com, bellwether entertainment
-Donate link: http://www.anothercoder.com/donate
+Contributors: Bellwether Entertainment, LLC
 Tags: geomarketing, ip location, geolocation, geohtml, iplocation, country, state, city, ip2location, location, content
 Requires at least: 2.5
 Tested up to: 2.7.1
 Stable tag: 0.1
 
-Change page or post content based on your visitor's location. Target content by country, state, metro, or even city. All for free and right in your WordPress admin's page/post editor.
+Change page or post content based on your visitor's location. Target content by country, state, metro, or even city; all for free!
 
 == Description ==
 
