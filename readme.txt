@@ -5,7 +5,7 @@ Requires at least: 2.5
 Tested up to: 2.7.1
 Stable tag: 0.1
 
-Change page or post content based on your visitor's location. Target content by country, state, metro, or even city; all for free!
+Change your blog content based on the country, state, metro area, or city of your visitors. Easy to use and completely free!
 
 == Description ==
 
