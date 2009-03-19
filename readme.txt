@@ -5,7 +5,7 @@ Requires at least: 2.5
 Tested up to: 2.7.1
 Stable tag: 0.1
 
-Easily add, change, or remove content from your Pages/Posts based on your visitor's location: country, state, metro area, and even city. Easily add, change, or remove content from your Pages/Posts based on your visitor's location: country, state, metro area, and even city. Give it a try!
+Easily add, change, or remove content from your Pages/Posts based on your visitor's location: country, state, metro area, and even city. Give it a try!
 
 == Description ==
 
