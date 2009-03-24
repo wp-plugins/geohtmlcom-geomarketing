@@ -1,15 +1,10 @@
 <?php
-/**
- * @package GeoHTML_GeoMarketing
- * @author Bellwether Entertainment
- * @version 0.1
- */
 /*
 Plugin Name: GeoHTML.com GeoMarketing
 Plugin URI: http://www.geohtml.com/
-Description: A WordPress plugin to change Page or Post content based on your visitor's location
-Author: Bellwether Entertainment
+Description: A WordPress plugin to change Page and Post content based on visitor location
 Version: 0.1
+Author: Bellwether Entertainment
 Author URI: http://www.geohtml.com/
 */
 
