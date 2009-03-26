@@ -5,7 +5,7 @@ Requires at least: 2.5
 Tested up to: 2.7.1
 Stable tag: 0.1
 
-Add, change, or remove content from your pages/posts based on your visitor's location: country, state, metro area, and even city. Free and easy to use!
+Add, change, or remove content from your pages/posts based on your visitor's location: country, state, metro area, and even city. Free & easy to use!
 
 == Description ==
 
